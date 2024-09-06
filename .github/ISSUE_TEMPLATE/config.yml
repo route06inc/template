@@ -1,5 +1,6 @@
 # Replace [REPO NAME]
 
+blank_issues_enabled: false
 contact_links:
   - name: Feature request
     url: https://github.com/route06inc/[REPO NAME]/discussions/categories/ideas
