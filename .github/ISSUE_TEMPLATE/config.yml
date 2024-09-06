@@ -1,0 +1,9 @@
+# Replace [REPO NAME]
+
+contact_links:
+  - name: Feature request
+    url: https://github.com/route06inc/[REPO NAME]/discussions/categories/ideas
+    about: Share ideas for new features
+  - name: Ask a question
+    url: https://github.com/route06inc/[REPO NAME]/discussions/categories/q-a
+    about: Ask questions and discuss with other community members
