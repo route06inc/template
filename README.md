@@ -9,6 +9,9 @@
 Please replace the specified locations in the following files, for example `[REPO NAME]`:
 
 * [ ] .github/ISSUE_TEMPLATE/config.yml
+* [ ] CODE_OF_CONDUCT.md
+* [ ] CODE_OF_CONDUCT_ja.md
+    * Remove it if you don't need it
 * [ ] CONTRIBUTING.md
 * [ ] README.md
 * [ ] SECURITY.md
