@@ -11,6 +11,7 @@ Please replace the specified locations in the following files, for example `[REP
 * [ ] .github/ISSUE_TEMPLATE/config.yml
 * [ ] CONTRIBUTING.md
 * [ ] README.md
+* [ ] SECURITY.md
 
 ### Choose LICENSE
 
