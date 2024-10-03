@@ -27,3 +27,4 @@ Please replace the specified locations in the following files, for example `[REP
 * Else:
     * [ ] Add `LICENSE` file you choose
         * ref. https://choosealicense.com/
+    * [ ] `$ rm LICENSE_MIT LICENSE_Apache-2.0`
