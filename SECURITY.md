@@ -33,11 +33,11 @@ If you discover a security vulnerability, please report it to us in the followin
 
 ### case2: Report via GitHub Private vulnerability reporting
 
-<!-- Replace [REPO NAME] -->
+<!-- Replace [ORG NAME] and [REPO NAME] -->
 
 Out team and community take security bugs in seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
-To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/route06inc/[REPO NAME]/security/advisories/new) tab. **Do not open up a GitHub issue.**
+To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/[ORG NAME]/[REPO NAME]/security/advisories/new) tab. **Do not open up a GitHub issue.**
 
 Our team will send a response indicating the next steps in handling your report. After the initial reply to your report, the security team will keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
 
