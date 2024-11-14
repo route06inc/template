@@ -1,10 +1,10 @@
-# Replace [REPO NAME]
+# Replace [ORG NAME] and [REPO NAME]
 
 blank_issues_enabled: false
 contact_links:
   - name: Feature request
-    url: https://github.com/route06inc/[REPO NAME]/discussions/categories/ideas
+    url: https://github.com/[ORG NAME]/[REPO NAME]/discussions/categories/ideas
     about: Share ideas for new features
   - name: Ask a question
-    url: https://github.com/route06inc/[REPO NAME]/discussions/categories/q-a
+    url: https://github.com/[ORG NAME]/[REPO NAME]/discussions/categories/q-a
     about: Ask questions and discuss with other community members
