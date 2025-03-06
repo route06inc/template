@@ -1,3 +1,5 @@
+# Replace [ORG NAME] and [REPO NAME]
+
 name: Documentation Issue
 description: Suggest improvements or corrections to the documentation.
 labels:
@@ -8,7 +10,7 @@ body:
       label: Self Checks
       description: "To make sure we get to your issue in time, please check the following:"
       options:
-        - label: I have searched for existing issues [search for existing issues](../issues), including closed ones.
+        - label: I have searched for existing issues [search for existing issues](https://github.com/[ORG NAME]/[REPO NAME]/issues), including closed ones.
           required: true
 
   - type: input

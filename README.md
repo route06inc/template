@@ -8,6 +8,8 @@
 
 Please replace the specified locations in the following files, for example `[REPO NAME]`:
 
+* [ ] .github/ISSUE_TEMPLATE/1_bug_report.yml
+* [ ] .github/ISSUE_TEMPLATE/2_doc_issue.yml
 * [ ] .github/ISSUE_TEMPLATE/config.yml
 * [ ] CODE_OF_CONDUCT.md
 * [ ] CODE_OF_CONDUCT_ja.md
